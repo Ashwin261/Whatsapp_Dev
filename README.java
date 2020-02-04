@@ -6,7 +6,7 @@ public class Jenkins {
 System.out.println("Good night");
 System.out.println("Good sight");
 System.out.println("Good height");
-System.out.println("Good bye");
+System.out.println("Good bye guru");
  }
 
 }
